@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/g24DSFV.png" group-title="",Futbol TV (480p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
